@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" style="overflow: hidden">
+<head>
+    <meta charset="UTF-8">
+    <title>发布</title>
+    <link rel="stylesheet" href="css/publish.css">
+</head>
+<body>
+<div id="div">
+    <div id="top">
+        <div>
+            <button id="publish">发布</button>
+            <input type="radio" name="kind" id="poetry" value="诗歌">诗歌
+            <input type="radio" name="kind" id="prose" value="散文">散文
+            <input type="radio" name="kind" id="novel" value="小说">小说
+            <input type="radio" name="kind" id="drama" value="戏剧">戏剧
+            <input type="radio" name="kind" id="other" value="其他" checked>其他
+        </div>
+        <div>
+            <a href="" id="a"><button id="history" href="">历史</button></a>
+        </div>
+    </div>
+    <div id="body">
+        <div style="display: flex">
+            <div style="width: 50px">标题：</div>
+            <div id="title" contenteditable="true" ></div>
+        </div>
+
+        <textarea id="text" ></textarea>
+    </div>
+
+</div>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="text/javascript" src="js/publish.js"></script>
+</body>
+</html>

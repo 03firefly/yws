@@ -1,0 +1,128 @@
+.button{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    z-index: 1;
+    background-color: white;
+}
+button{
+    font-size: 1px;
+    border: none;
+    color: #777777;
+    /*background-color: white;*/
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#top{
+    display: flex;
+    width: 200px;
+    border-radius: 10px;
+    height: 20px;
+    margin-bottom: 5px;
+    background-color: white;
+    border: 1px solid #777777;
+}
+.s{
+    position: relative;
+    top: -2.5px;
+    left: 5px;
+    height: 100%;
+
+}
+#search{
+    background-color: white;
+    height: 15px;
+    width: 170px;
+    border-style: none;
+    outline: none;
+}
+.i{
+    position: relative;
+    left: 7px;
+
+}
+#img{
+    height: 14px;
+    width: 14px;
+}
+
+
+dl{
+    position: absolute;
+    top: 50px;
+    padding-bottom: 7px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div{
+    white-space: nowrap;
+    overflow: hidden;
+}
+.user{
+    width: 80%;
+    border: 1px solid #ededee;
+    margin-bottom: 3px;
+    padding-left: 5px;
+    background-color: #f8f8f9;
+}
+.id{
+    font-size: 1px;
+    color: #777777;
+}
+.article{
+    border: 1px solid #ededee;
+    width: 81%;
+    background-color: #f8f8f9;
+    margin-bottom: 3px;
+}
+.title{
+    position: relative;
+    left: 5px;
+    width: 98%;
+    overflow: hidden;
+    /*border: 1px solid black;*/
+}
+.a{
+    text-decoration: none;
+    color: #000000;
+
+}
+.other{
+    position: relative;
+    top: -4%;
+    left: 4%;
+    font-size: 2px;
+    color: #3c3f41;
+
+}
+textarea{
+    position: relative;
+    left: 4%;
+    width: 95%;
+    height: 25px;
+    font-size: 1px;
+    border-style: none;
+    resize: none;
+    overflow: hidden;
+    /*border: 1px solid red;*/
+}
+.author,.type{
+    position:relative;
+    margin-right: 40px;
+    /*border: 1px solid red;*/
+    display: inline-block;
+    width: 200px;
+    /*height: 30px;*/
+    white-space: nowrap;
+    overflow: hidden;
+}

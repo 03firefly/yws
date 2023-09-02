@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" style="overflow: hidden">
+<head>
+  <meta charset="UTF-8">
+  <title>登录</title>
+  <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+<img id="img" src="../resources/image/1.jpg" width="100%" height="100%">
+<form action="major.html" method="get" id="form" onsubmit="return sub()">
+  <p id="lg">
+    <strong>登录</strong>
+  </p>
+  <p>
+    <strong>账号</strong>
+    <input id="id" name="id" type="text">
+    <strong><span class="span" id="spn1"></span></strong>
+  </p>
+  <p>
+    <strong>密码</strong>
+    <input id="psw" type="password" placeholder="字母或数字">
+    <strong><span class="span" id="spn2"></span></strong>
+  </p>
+  <div id="sm">
+    <input id="login" type="submit" value="登录" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="register.html"><input id="register" type="button" value="注册" ></a>
+  </div>
+  <div id="fp">
+    <a href="find.html">找回密码</a>
+  </div>
+  <input type="hidden" id="post" name="type">
+</form>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
+
+</body>
+</html>

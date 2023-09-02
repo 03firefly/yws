@@ -1,0 +1,28 @@
+dd{
+    display: flex;
+}
+.button{
+    position: fixed;
+    top: 0px;
+    padding-top: 5px;
+    /*padding-left: 11%;*/
+    left: 4.5%;
+    width: 89%;
+    background-color: white;
+    font-size: 1px;
+    display: flex;
+    justify-content: space-between;
+    /*border: 1px solid red;*/
+
+}
+button{
+    font-size: 1px;
+}
+.check{
+    position: relative;
+    top: 25px;
+    left: -8px;
+    width: 10px;
+    height: 10px;
+    /*border: 1px solid red;*/
+}

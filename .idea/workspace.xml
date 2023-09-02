@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="t:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="152d5929-f690-4081-ac28-1e4f6685b22e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/t_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ajax7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Download.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/search.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/beautyeye_lnf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload2-core-2.0.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/druid-1.2.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/fastjson-2.0.32.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jxl-2.6.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-j-8.0.32.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/attention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/collect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/attention.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/collect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/find.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/history.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/major.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/publish.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/articles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/attention.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/collect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/major.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/personal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/publish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/major.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/personal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/publish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/users.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SnJ9tNcLiepUKUStgNzb18u2WY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/yws/test/t/src/main/webapp/js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yws\test\t\src\main\webapp\js" />
+      <recent name="D:\yws\test\t\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\yws\test\t\src\main\resources\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yws\test\t\src\main" />
+      <recent name="D:\yws\test\t\src\main\webapp" />
+      <recent name="D:\yws\test\t\src\main\" />
+      <recent name="D:\yws\test\t\src\main\webapp\html" />
+      <recent name="D:\yws\test\t\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.87" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="t:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/t" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/src/main/resources">
+          <settings>
+            <option name="CONTEXT_PATH" value="/resources" />
+          </settings>
+        </file>
+        <file path="$PROJECT_DIR$/src/main/excel">
+          <settings>
+            <option name="CONTEXT_PATH" value="/excel" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="6b611c9d-7b27-4b0e-88ab-ba616dfba2cf" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12344" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="t:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152d5929-f690-4081-ac28-1e4f6685b22e" name="Changes" comment="" />
+      <created>1689776264004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689776264004</updated>
+      <workItem from="1689776265056" duration="1400000" />
+      <workItem from="1689779374393" duration="165000" />
+      <workItem from="1689831109974" duration="148000" />
+      <workItem from="1689831282513" duration="2009000" />
+      <workItem from="1689833650485" duration="16510000" />
+      <workItem from="1689850515146" duration="6361000" />
+      <workItem from="1689858332620" duration="6989000" />
+      <workItem from="1689916172209" duration="16204000" />
+      <workItem from="1689932998675" duration="19424000" />
+      <workItem from="1690010747325" duration="23658000" />
+      <workItem from="1690093982483" duration="10540000" />
+      <workItem from="1690104560069" duration="4868000" />
+      <workItem from="1690109446979" duration="224000" />
+      <workItem from="1690109863469" duration="1667000" />
+      <workItem from="1690112001167" duration="979000" />
+      <workItem from="1690112987455" duration="2076000" />
+      <workItem from="1690115075577" duration="5581000" />
+      <workItem from="1690121887887" duration="43000" />
+      <workItem from="1690122077851" duration="1137000" />
+      <workItem from="1690208221033" duration="1936000" />
+      <workItem from="1690210164301" duration="3327000" />
+      <workItem from="1690263891821" duration="9490000" />
+      <workItem from="1690273993673" duration="3192000" />
+      <workItem from="1690277219309" duration="21253000" />
+      <workItem from="1690351540555" duration="307000" />
+      <workItem from="1690351851248" duration="95000" />
+      <workItem from="1690351962401" duration="1199000" />
+      <workItem from="1690353167567" duration="5422000" />
+      <workItem from="1690358625281" duration="951000" />
+      <workItem from="1690359676972" duration="3506000" />
+      <workItem from="1690363190298" duration="15696000" />
+      <workItem from="1690379069853" duration="10869000" />
+      <workItem from="1690436814751" duration="607000" />
+      <workItem from="1690437642266" duration="4199000" />
+      <workItem from="1690441978264" duration="28689000" />
+      <workItem from="1690525301291" duration="34180000" />
+      <workItem from="1690609029618" duration="34058000" />
+      <workItem from="1690645315277" duration="3037000" />
+      <workItem from="1690648391930" duration="227000" />
+      <workItem from="1690696715390" duration="35482000" />
+      <workItem from="1690780582905" duration="23381000" />
+      <workItem from="1690870984170" duration="28013000" />
+      <workItem from="1690902745554" duration="119000" />
+      <workItem from="1690968663524" duration="6196000" />
+      <workItem from="1690977061618" duration="195000" />
+      <workItem from="1690977281183" duration="4532000" />
+      <workItem from="1690981827819" duration="3796000" />
+      <workItem from="1690987240086" duration="3686000" />
+      <workItem from="1690990937831" duration="439000" />
+      <workItem from="1691140922338" duration="3342000" />
+      <workItem from="1691144416583" duration="3965000" />
+      <workItem from="1691148745440" duration="8555000" />
+      <workItem from="1691224261008" duration="5622000" />
+      <workItem from="1691230738846" duration="10542000" />
+      <workItem from="1691242015413" duration="7185000" />
+      <workItem from="1691586559787" duration="2345000" />
+      <workItem from="1691592185618" duration="2033000" />
+      <workItem from="1691594270507" duration="163000" />
+      <workItem from="1691668071542" duration="6819000" />
+      <workItem from="1691676659399" duration="1329000" />
+      <workItem from="1691738247713" duration="3274000" />
+      <workItem from="1691842408612" duration="12000" />
+      <workItem from="1691935622922" duration="190000" />
+      <workItem from="1691935924033" duration="613000" />
+      <workItem from="1691936687358" duration="354000" />
+      <workItem from="1692886393471" duration="14820000" />
+      <workItem from="1692927918321" duration="28006000" />
+      <workItem from="1692979404617" duration="358000" />
+      <workItem from="1693136052581" duration="928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="response" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

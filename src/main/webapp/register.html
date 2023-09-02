@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" style="overflow: hidden">
+<head>
+  <meta charset="UTF-8">
+  <title>登录</title>
+  <link rel="stylesheet" href="css/register.css">
+</head>
+<body>
+<img id="img" src="../resources/image/1.jpg" width="100%" height="100%">
+<form action="major.html" method="get" id="form" >
+  <div id="lg" >
+    <strong>注册</strong>
+  </div>
+  <div>
+    <input type="hidden" name="id" id="id" >
+    <input type="hidden" name="type" value="user">
+    <p>
+      <strong>昵称</strong>
+      <input id="name" type="text" >
+      <strong><span class="sp" id="sp3"></span></strong>
+    </p>
+    <p>
+      <strong>密码</strong>
+      <input id="password" type="password" placeholder="数字或字母">
+      <strong><span class="sp" id="sp1"></span></strong>
+    </p>
+    <p>
+      <strong>邮箱</strong>
+      <input id="e" type="text">
+      <strong><span class="sp" id="sp2"></span></strong>
+    </p>
+    <p id="gd">
+      <strong>性别</strong>
+      男<input name="gender" type="radio" id="man" class="gender" value="男">
+      女<input name="gender" type="radio" id="women" class="gender" value="女">
+    </p>
+  </div>
+  <div id="submit" >
+    <input id="register" type="button" value="注册" onclick="return mySubmit()">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="login.html"><input id="login" type="button" value="登录"></a>
+  </div>
+  <input type="submit" value="跳转" id="to" style="display: none">
+</form>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="text/javascript" src="js/register.js"></script>
+</body>
+</html>

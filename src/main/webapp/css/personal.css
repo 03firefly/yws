@@ -1,0 +1,122 @@
+.all{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 1px;
+    left: 1px;
+    right: 1px;
+    bottom: 1px;
+    font-size: small;
+}
+.title{
+    position: relative;
+    width: 95%;
+    height: 25px;
+    display: flex;
+    left: 15px;
+    color: #777777;
+    justify-content: space-between;
+}
+#article{
+    text-decoration: none;
+}
+.body{
+    width: 100%;
+    height: 90%;
+    background-color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+}
+.list{
+    position: relative;
+    border: 1px solid #f1f1f1;
+    background-color: white;
+    width: 95%;
+    height: 65%;
+    left: 2%;
+    margin-top: 15px;
+}
+.button{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    height: 80px;
+    left: 28%;
+}
+.div{
+    position: relative;
+    display: flex;
+    width: 40%;
+}
+.select{
+    position: relative;
+    top: 23px;
+    right: 7px;
+
+}
+.button1,.button2 {
+    position: relative;
+    top: -9px;
+}
+button{
+    border-style: none;
+    background-color: darkgray;
+    color: white;
+    height: 25px;
+
+}
+.info{
+    position: relative;
+    width: 66%;
+    margin: auto;
+    left: 15%;
+    right: 0;
+    color: #777777;
+}
+input{
+    border: 1px solid #f1f1f1;
+    height: auto;
+    outline: none;
+}
+.ctr{
+    width: 166px;
+}
+.span{
+    position: relative;
+    right: 10px;
+}
+#bq{
+    bottom: 18px;
+}
+textarea{
+    width: 166px;
+    border: 1px solid #f1f1f1;
+    resize: none;
+    outline: none;
+}
+#bd::placeholder{
+    font-size: 1px;
+}
+.sp{
+    color: burlywood;
+    font-size: 3px;
+}
+#mydiv{
+    display: flex;
+    width: 300px;
+
+}
+#name{
+    position: relative;
+    font-size: 1px;
+    /*left: 1px;*/
+    width: 170px;
+    color: black;
+    outline: none;
+    background-color: #f8f8f9;
+    border: 1px solid #f1f1f1;
+    word-wrap: break-word;
+}
+#nc{
+    width: 29px;
+}

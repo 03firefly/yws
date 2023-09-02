@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" style="overflow-x: hidden">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/personal.css">
+</head>
+<body>
+<div class="all">
+    <div class="title">
+        <div>个人中心</div>
+        <div><a href="" id="article">文章</a></div>
+    </div>
+    <div class="body">
+        <div class="list">
+            <div class="info">
+                <p>
+                    <span class="span">账号</span>
+                    <span class="ctr" id="id"></span>
+                </p>
+                <p>
+                    <div id="mydiv" >
+
+                        <div class="span" id="nc">昵称</div>
+                        <div class="ctr" id="name" ></div>
+                        <span class="sp" id="sp1" style="position: relative;left: 5px"></span>
+
+                    </div>
+                </p>
+                <p>
+                    <span class="span">密码</span>
+                    <input class="ctr" id="password" type="password"  disabled="disabled" >
+                    <span class="sp" id="sp4"></span>
+                </p>
+                <p>
+                    <span class="span">邮箱</span>
+                    <input class="ctr" id="email" type="text" disabled="disabled" style="">
+                    <span class="sp" id="sp2"></span>
+                </p>
+                <p id="gd">
+                    <span class="span">性别</span>
+                    男<input name="gender" type="radio" id="man" class="gd" value="男" disabled="disabled">
+                    女<input name="gender" type="radio" id="women" class="gd" value="女" disabled="disabled">
+                </p>
+                <p>
+                    <span class="span">生日</span>
+                    <input class="ctr" id="bd" type="text" placeholder="格式：年-月-日" disabled="disabled">
+                    <span class="sp" id="sp3"></span>
+                </p>
+                <p>
+                    <span class="span" id="bq">便签</span>
+                    <textarea disabled="disabled" id="sign"></textarea>
+                </p>
+
+
+            </div>
+        </div>
+        <div class="button">
+            <div class="div">
+                <div class="select">
+                    <button style="width: 80px;" id="edit">编辑</button>
+                </div>
+                <div class="button1"  style="display: none;">
+                    <p><button id="sure">确定</button></p>
+                    <button id="cancel">取消</button>
+                </div>
+            </div>
+            <div class="div">
+                <div class="select">
+                    <button style="width: 80px;" id="delete">账号注销</button>
+                </div>
+                <div class="button2" style="display: none">
+                    <p><button id="yes">是</button></p>
+                    <button id="no">否</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="text/javascript" src="js/personal.js"></script>
+</body>
+</html>
